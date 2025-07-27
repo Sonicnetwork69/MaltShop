@@ -1,0 +1,26 @@
+{
+    "name": "techvillage/googleanalytics-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Md. Mostafijur Rahman",
+            "email": "mostafijur.techvill@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\GoogleAnalytics\\": ""
+        }
+    },
+    "require": {
+        "google/analytics-data": "^0.9.4",
+        "nesbot/carbon": "^2.66",
+        "symfony/cache": "^6.0"
+    }
+}

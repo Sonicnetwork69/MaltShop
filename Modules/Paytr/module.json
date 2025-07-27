@@ -1,0 +1,13 @@
+{
+    "name": "Paytr",
+    "alias": "paytr",
+    "version": "1.0",
+    "description": "Webhook link : http://your_domain_name/gateway/pay/paytr/payment_webhook",
+    "gateway": true,
+    "keywords": [],
+    "priority": 0,
+    "providers": [],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

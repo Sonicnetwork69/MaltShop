@@ -1,0 +1,13 @@
+{
+    "name": "Paytm",
+    "alias": "paytm",
+    "version": "1.0",
+    "description": "",
+    "gateway": true,
+    "keywords": [],
+    "priority": 0,
+    "providers": [],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

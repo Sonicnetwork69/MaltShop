@@ -1,0 +1,13 @@
+{
+    "name": "Esewa",
+    "alias": "esewa",
+    "version": "1.0",
+    "gateway": true,
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

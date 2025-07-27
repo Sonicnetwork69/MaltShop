@@ -1,0 +1,15 @@
+{
+    "Settings": "Settings",
+    "Esewa Documentation": "Esewa Documentation",
+    "Client Access Key": "Client Access Key",
+    "Instruction": "Instruction",
+    "Status": "Status",
+    "Esewa settings updated.": "Esewa settings updated.",
+    "Error while trying to setup Esewa.": "Error while trying to setup Esewa.",
+    "Payment Request failed due to some issues. Please try again later.": "Payment Request failed due to some issues. Please try again later.",
+    "Payment Request failed due to credentials mismatch.": "Payment Request failed due to credentials mismatch.",
+    "Paying with Esewa": "Paying with Esewa",
+    "Credit or debit card": "Credit or debit card",
+    "Pay With Esewa": "Pay With Esewa",
+    "Purchase data not found.": "Purchase data not found."
+}

@@ -1,0 +1,21 @@
+{
+    "name": "TechVillage/Esewa-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Md Rakibur Rahman",
+            "email": "rakibur.techvill@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Esewa\\": ""
+        }
+    }
+}

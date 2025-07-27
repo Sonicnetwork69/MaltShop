@@ -1,0 +1,15 @@
+{
+    "Settings": "সেটিংস",
+    "Esewa Documentation": "ইসেওয়া মানি ডকুমেন্টেশন",
+    "Client Access Key": "ক্লায়েন্ট অ্যাক্সেস কী",
+    "Instruction": "নির্দেশ",
+    "Status": "স্থিতি",
+    "Esewa settings updated.": "ইসেওয়া মানি সেটিংস আপডেট করা হয়েছে।",
+    "Error while trying to setup Esewa.": "ইসেওয়া মানি সেটআপ করার চেষ্টা করার সময় ত্রুটি৷",
+    "Payment Request failed due to some issues. Please try again later.": "কিছু সমস্যার কারণে অর্থপ্রদানের অনুরোধ ব্যর্থ হয়েছে৷ অনুগ্রহ করে একটু পরে আবার চেষ্টা করুন.",
+    "Payment Request failed due to credentials mismatch.": "শংসাপত্রের অমিলের কারণে অর্থপ্রদানের অনুরোধ ব্যর্থ হয়েছে৷",
+    "Paying with Esewa": "ইসেওয়া মানি দিয়ে অর্থ প্রদান",
+    "Credit or debit card": "ক্রেডিট বা ডেবিট কার্ড",
+    "Pay With Esewa": "ইসেওয়া মানি দিয়ে পে",
+    "Purchase data not found.": "ক্রয় তথ্য পাওয়া যায়নি."
+}
